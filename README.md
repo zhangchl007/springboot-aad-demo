@@ -2,7 +2,7 @@
 
 This is a demo project, let you know how to use correctly Spring Security and Azure Active Directory.
 
-which inspired by the repo:
+which inspired by the repos:
 
 [azure-spring-boot-sample](https://github.com/Azure-Samples/azure-spring-boot-sample)
 
@@ -17,6 +17,10 @@ export AD_CLIENT_ID="xxxxxxx"
 export AD_TENANT_ID="xxxxxxxxx"
 
 export AD_CLIENT_SECRET=xxxxxxxxxxxxxxxx
+
+# Run the app
+
+./mvnw spring-boot:run
 
 # Verify the access
 
