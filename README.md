@@ -4,7 +4,7 @@ This is a demo project, let you know how to use correctly Spring Security and Az
 
 which inspired by the repos:
 
-[azure-spring-boot-sample](https://github.com/Azure-Samples/azure-spring-boot-sample)
+[azure-spring-boot-sample](https://github.com/Azure-Samples/azure-spring-boot-samples)
 
 [spring-active-directory](https://github.com/jdubois/spring-active-directory)
 
