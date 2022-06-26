@@ -1,6 +1,6 @@
 # springboot-aad-demo
 
-This is a demo project, let you know how to use correctly Spring Security and Azure Active Directory.
+This is a demo project, the guide for use correctly Spring Security and Azure Active Directory.
 
 which inspired by the repos:
 
